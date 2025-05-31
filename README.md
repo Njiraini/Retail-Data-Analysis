@@ -1,10 +1,12 @@
-RETAIL PULSE: Customer Behavior and Sales Analysis
+## RETAIL PULSE: Customer Behavior and Sales Analysis
+
+### Introduction
 
 Welcome to Retail Pulse, a data analytics project designed to showcase customer purchase behavior, sales trends, and actionable business insights for a fictional retail business. This project is part of my portfolio to demonstrate skills in data cleaning, exploratory data analysis (EDA), customer segmentation, forecasting, and dashboard creation.
 
 ---
 
-PROJECT OVERVIEW
+### PROJECT OVERVIEW
 
 Retail Pulse explores a transactional dataset to answer key business questions such as:
 - Who are our most valuable customers?
@@ -15,7 +17,7 @@ Retail Pulse explores a transactional dataset to answer key business questions s
 
 ---
 
-TOOLS AND TECHNOLOGIES
+### TOOLS AND TECHNOLOGIES
 
 Languages: Python
 Data Analysis: pandas, numpy
@@ -26,7 +28,7 @@ Notebook Environment: Jupyter
 
 ---
 
-PROJECT STRUCTURE
+### PROJECT STRUCTURE
 
 Retail-Pulse/
 - data/                  Retail dataset (e.g. retail_data.csv)
@@ -39,7 +41,7 @@ Retail-Pulse/
 
 ---
 
-KEY FEATURES
+### KEY FEATURES
 
 - Clean and preprocess raw transactional data
 - Analyze sales trends over time
@@ -51,40 +53,21 @@ KEY FEATURES
 
 ---
 
-SAMPLE INSIGHTS
+### SAMPLE INSIGHTS
 
 - Top 10 Products contribute over 40% of all sales
 - Repeat customers in the UK drive the majority of revenue
 - Sales dips observed during holiday weeks â€” consider marketing campaigns to boost engagement
 
 ---
+### Appendix 
 
-GETTING STARTED
-
-1. Clone the repository:
-   git clone https://github.com/your-username/retail-pulse-customer-analytics.git
-   cd retail-pulse-customer-analytics
-
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Run the notebook:
-   jupyter notebook notebooks/eda_starter_notebook.ipynb
+**Author**: Eric Njiraini©
+**Date**: 2025
+Leader in Data | Data Analyst | Data Storyteller | Insight-Driven Thinker
+**LinkedIn**: ericnjiraini
 
 ---
 
-LICENSE
-This project is licensed under the MIT License.
-
----
-
-AUTHOR
-
-Your Name
-Data Analyst | Data Storyteller | Insight-Driven Thinker
-LinkedIn: https://linkedin.com/in/your-profile
-Portfolio: https://yourwebsite.com
-
----
-
-If you like this project, feel free to star the repo or fork it for your own use!
+If you like this project, feel free to connect on LinkedIn for a deeper engagement! 
+Thanks for reading through!
